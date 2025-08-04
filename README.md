@@ -1,6 +1,8 @@
 # ⛅ Weather Pro App
 
-![Weather Pro](path-to-app-screenshot.png)
+![Weather Pro](assets/Screenshot 2025-08-04 190621.png)
+![Weather Pro](assets/Screenshot 2025-08-04 190621.png)
+![Weather Pro](assets/Screenshot 2025-08-04 190621.png)
 
 A beautiful, modern weather application built with React and Vite that provides real-time weather updates with stunning animations and a native app-like experience.
 
@@ -42,7 +44,7 @@ npm install
 
 3. Create a `.env` file in the root directory and add your OpenWeather API key:
 ```env
-VITE_WEATHER_API_KEY=your_api_key_here
+VITE_WEATHER_API_KEY=0d4d4c4b2d9aa95461cb0c2c3f4db62a
 ```
 
 4. Start the development server:
@@ -93,7 +95,7 @@ weather-app-pro/
 ### Capacitor Config
 ```json
 {
-  "appId": "com.surya.Weather",
+  "appId": "com.chaitu.Weather",
   "appName": "Weather",
   "webDir": "dist",
   "bundledWebRuntime": false
@@ -142,8 +144,8 @@ MIT © [Your Name]
 ## 👨‍💻 Author
 
 - [Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- GitHub: [@yourusername](https://github.com/Krupachaitanya)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/krupa1030)
 
 ## 🤝 Contributing
 
