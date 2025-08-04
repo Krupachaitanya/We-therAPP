@@ -1,5 +1,7 @@
 # ⛅ Weather Pro App
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3990c079-581f-4b5e-9932-a3b026cc6f89" />
+
 
 
 A beautiful, modern weather application built with React and Vite that provides real-time weather updates with stunning animations and a native app-like experience.
