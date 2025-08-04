@@ -1,8 +1,6 @@
 # ⛅ Weather Pro App
 
-![Weather Pro](assets/Screenshot 2025-08-04 190621.png)
-![Weather Pro](assets/Screenshot 2025-08-04 190621.png)
-![Weather Pro](assets/Screenshot 2025-08-04 190621.png)
+
 
 A beautiful, modern weather application built with React and Vite that provides real-time weather updates with stunning animations and a native app-like experience.
 
@@ -33,8 +31,9 @@ A beautiful, modern weather application built with React and Vite that provides 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weather-app-pro.git
-cd weather-app-pro
+git clone git remote set-url origin https://github.com/Krupachaitanya/We-therAPP.git
+
+cd We-therAPP
 ```
 
 2. Install dependencies:
